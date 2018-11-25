@@ -1,10 +1,10 @@
 # Create method `roll` that returns a random number between 1 and 6
 def roll
-  puts rand(1..6)
+  return rand(1..6)
 end
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
   # code goes here
-  return rand(1...100)
+  return rand 100
 end
