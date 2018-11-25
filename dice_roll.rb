@@ -4,5 +4,5 @@ def roll
 
 # Feel free to google "how to generate a random number in ruby"
   # code goes here
-  return 1+rand()
+  return rand()
 end
