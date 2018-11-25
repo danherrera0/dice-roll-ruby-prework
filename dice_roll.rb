@@ -6,5 +6,5 @@ end
 
 def roll
   # code goes here
-  return rand
+  puts rand
 end
