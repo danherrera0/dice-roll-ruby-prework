@@ -6,5 +6,5 @@ end
 
 def roll
   # code goes here
-  return rand 100
+  return rand(1..10)
 end
